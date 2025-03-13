@@ -1,6 +1,6 @@
 # CollabJam: Harness
 
-This repository contains 
+This repository contains the CAD files as well as print files for the modular harness.
 
 ![teaser-github](https://github.com/user-attachments/assets/f344ebe9-5038-4354-bb8e-5102e8a7d93d)
 
